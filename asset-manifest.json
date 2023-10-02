@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SillyJokes/static/css/main.95b042d1.css",
+    "main.js": "/SillyJokes/static/js/main.8b8352f0.js",
+    "index.html": "/SillyJokes/index.html",
+    "main.95b042d1.css.map": "/SillyJokes/static/css/main.95b042d1.css.map",
+    "main.8b8352f0.js.map": "/SillyJokes/static/js/main.8b8352f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95b042d1.css",
+    "static/js/main.8b8352f0.js"
+  ]
+}
